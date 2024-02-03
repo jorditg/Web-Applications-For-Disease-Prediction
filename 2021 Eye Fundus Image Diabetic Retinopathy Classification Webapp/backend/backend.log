@@ -1,0 +1,47 @@
+2021-07-28 07:15:44,434 - __main__ - ERROR -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+
+2021-07-28 07:15:44,465 - __main__ - ERROR -  * Restarting with inotify reloader
+
+2021-07-28 07:15:45,878 - __main__ - ERROR -  * Debugger is active!
+
+2021-07-28 07:15:45,895 - __main__ - ERROR -  * Debugger PIN: 326-142-429
+
+2021-08-06 12:04:14,548 - __main__ - ERROR - Traceback (most recent call last):
+
+2021-08-06 12:04:14,582 - __main__ - ERROR -   File "app.py", line 49, in <module>
+
+2021-08-06 12:04:14,582 - __main__ - ERROR -     
+2021-08-06 12:04:14,582 - __main__ - ERROR - CenteredCircularMaskTensor(640, normvect)
+2021-08-06 12:04:14,582 - __main__ - ERROR - 
+
+2021-08-06 12:04:14,582 - __main__ - ERROR - NameError
+2021-08-06 12:04:14,583 - __main__ - ERROR - : 
+2021-08-06 12:04:14,583 - __main__ - ERROR - name 'CenteredCircularMaskTensor' is not defined
+2021-08-06 12:04:14,583 - __main__ - ERROR - 
+
+2021-08-06 12:08:49,240 - __main__ - ERROR - Traceback (most recent call last):
+
+2021-08-06 12:08:49,251 - __main__ - ERROR -   File "app.py", line 49, in <module>
+
+2021-08-06 12:08:49,251 - __main__ - ERROR -     
+2021-08-06 12:08:49,252 - __main__ - ERROR - CenteredCircularMaskTensor(640, normvect)
+2021-08-06 12:08:49,252 - __main__ - ERROR - 
+
+2021-08-06 12:08:49,252 - __main__ - ERROR - NameError
+2021-08-06 12:08:49,252 - __main__ - ERROR - : 
+2021-08-06 12:08:49,252 - __main__ - ERROR - name 'CenteredCircularMaskTensor' is not defined
+2021-08-06 12:08:49,252 - __main__ - ERROR - 
+
+2021-08-06 12:12:08,817 - __main__ - ERROR - Traceback (most recent call last):
+
+2021-08-06 12:12:08,817 - __main__ - ERROR -   File "app.py", line 78, in <module>
+
+2021-08-06 12:12:08,818 - __main__ - ERROR -     
+2021-08-06 12:12:08,818 - __main__ - ERROR - architecture = ret6_bn_pretrained()
+2021-08-06 12:12:08,818 - __main__ - ERROR - 
+
+2021-08-06 12:12:08,818 - __main__ - ERROR - NameError
+2021-08-06 12:12:08,818 - __main__ - ERROR - : 
+2021-08-06 12:12:08,818 - __main__ - ERROR - name 'ret6_bn_pretrained' is not defined
+2021-08-06 12:12:08,818 - __main__ - ERROR - 
+

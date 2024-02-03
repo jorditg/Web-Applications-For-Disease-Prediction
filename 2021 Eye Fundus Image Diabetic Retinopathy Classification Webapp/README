@@ -1,0 +1,4 @@
+for running:
+
+enter frontend directory and run "npm start"
+enter backed directory and run "python app.py"

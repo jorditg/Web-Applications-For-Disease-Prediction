@@ -1,0 +1,1 @@
+{"file": "IMD003.9844f81e1408f6ecb932137d33bed7cfdcf518a3.jpg", "crop_posx": "101", "crop_posy": "63", "crop_posw": "392", "crop_posh": "392", "orig_width": "765", "orig_height": "574", "operations": ":RESIZE_456x456", "label": "Clase 0 - No apparent", "normal": 89, "melanoma": 11, "img": "", "model": "EfficientNet-B5"}
